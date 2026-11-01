@@ -3,7 +3,7 @@
  * Plugin Name: WP List Category Terms
  * Description: A Gutenberg block to display custom taxonomy terms with custom fields.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Daniel Emery
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
